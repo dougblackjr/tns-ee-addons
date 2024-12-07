@@ -25,6 +25,12 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**General Information:**
+ - ExpressionEngine Version: [e.g. 7.5.3]
+ - Add-on Version: [e.g 1.2.3]
+
+Please DO NOT include your license number on here. We will check against the person submitting.
+
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
